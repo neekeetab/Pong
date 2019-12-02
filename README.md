@@ -1,3 +1,3 @@
 # Pong
 Pong iOS game 
-<img src="./Resources/Demo.gif" width=1000/>
+<img src="./pong_demo.gif" width=1000/>
